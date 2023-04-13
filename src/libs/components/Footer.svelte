@@ -1,24 +1,7 @@
-<footer class="footer fixed bottom-0 left-0 p-10 bg-neutral text-neutral-content">
-	<div>
-		<!-- Logo here -->
-		<img class=" w-14" src="myLogo.jpg" alt="my logo" />
+<footer class="footer fixed bottom-0 justify-center p-10 text-neutral-content">
+	<div class="flex flex-row justify-center">
+		<p>Made by</p>
+		<img class="w-5" src="azureeon-logo.jpg" alt="my logo" />
 		<p>AzureEon</p>
-	</div>
-	<div>
-		<span class="footer-title">Social</span>
-		<div class="grid grid-flow-col gap-4">
-			<a href="https://www.youtube.com/channel/UCi64MpN3psRgPwsVe1s1FiQ"
-				><svg
-					xmlns="http://www.w3.org/2000/svg"
-					width="24"
-					height="24"
-					viewBox="0 0 24 24"
-					class="fill-current"
-					><path
-						d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"
-					/></svg
-				></a
-			>
-		</div>
 	</div>
 </footer>
